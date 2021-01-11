@@ -10,7 +10,7 @@ The goal is to reach the end credit screen the fastest way possible.
 * Clone your fork on your computer
 * Install dependencies using `npm i` in the cloned directory
 * Copy the `bots/template.js` file into `bots/<your_username>.js`
-* Work on your code, evaluate it locally using `npm run test`
+* Work on your code, evaluate it locally using `npm run debug "<your_username>"`
 * When you are satisfied, make a pull-request, your code will be reviewed and the CI-test will measure your time
 
 ### Rules

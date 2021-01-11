@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec --exit",
+    "debug": "mocha --reporter spec --exit -g",
     "pretest": "npm run lint",
     "lint": "standard",
     "fix": "standard --fix"
