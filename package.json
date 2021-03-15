@@ -20,13 +20,17 @@
     "url": "https://github.com/prismarineJS/speedrun-challenge-ssgp/issues"
   },
   "homepage": "https://github.com/prismarineJS/speedrun-challenge-ssgp#readme",
+  "standard": {
+    "ignore": ["bots/"]
+  },
   "dependencies": {
     "minecraft-data": "^2.72.0",
     "minecraft-wrap": "^1.3.0",
-    "mineflayer": "^2.40.1",
-    "mineflayer-pathfinder": "^1.3.5",
+    "mineflayer": "^3.0.0",
+    "mineflayer-pathfinder": "^1.6.1",
     "mocha": "^8.2.1",
-    "prismarine-viewer": "^1.13.0",
-    "standard": "^16.0.3"
+    "prismarine-viewer": "^1.18.1",
+    "standard": "^16.0.3",
+    "vec3": "^0.1.7"
   }
 }
